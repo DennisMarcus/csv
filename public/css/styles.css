@@ -1,0 +1,39 @@
+body {
+    background: #607D8B;
+    margin: 0;
+}
+
+.header {
+    height: 100px;
+    background: #455A64;
+}
+
+.header-title {
+    margin: 0 50px;
+    line-height: 100px;
+}
+
+.header-title-link {
+    text-decoration: none;
+    color: #90A4AE;
+}
+
+.content{
+    min-height: 250px;
+    margin: 25px 20% 0 20%;
+    background: #90A4AE;
+    text-align: center;
+}
+
+.view-table {
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+.homepage-button {
+    display: inline-block;
+    line-height: 250px;
+    margin: 50px;
+}
+
+/*# sourceMappingURL=styles.css.map */
